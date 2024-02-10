@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Owen Neal, and I am interested in web development and machine learning.
 <!--
 **owenneal/owenneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
