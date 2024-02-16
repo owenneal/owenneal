@@ -20,7 +20,7 @@ I'm Owen Neal, a computer science enthusiast with a love for the thrill of mount
 - Working on projects ranging from predictive modeling to deep learning.
 
 📫 **Connect with Me:**
-- Let's connect and learn together! Feel free to reach out on [LinkedIn](www.linkedin.com/in/owen-neal1)
+- Let's connect and learn together! Feel free to reach out on [www.linkedin.com/in/owen-neal1]
 
 🚧 **Future Goals:**
 - Contributing to open-source projects.
