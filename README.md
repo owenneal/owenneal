@@ -1,30 +1,23 @@
-👋 HI there! 
+# 👋 Hi there, I'm Owen Neal
 
-I'm Owen Neal, a computer science enthusiast with a love for the thrill of mountain biking and a passion for exploring the intersections of machine learning and web development. Currently on a journey of constant learning and growth as a CS student.
+I'm a student currently studying Computer Science at University of Illinois Chicago, with a passion for software engineering, functional programming, and building practical tools that solve real problems. I’m especially interested in Scala, Python, and backend development.
 
-🚵‍♂️ **Mountain Biking:**
-- When not coding, you'll find me navigating trails and conquering downhill challenges on my bike.
-- Embracing the freedom of the outdoors and the rush of adrenaline on two wheels.
+### 🔧 Tech Stack
+- **Languages:** Scala, Java, Python
+- **Tools & Frameworks:** Git, SBT, SQLite, ScalaFX, MUnit
+- **Concepts:** Functional programming, object-oriented design, test-driven development
 
-🚀 **About Me:**
-- 🎓 Studying Computer Science at University of Illinois-Chicago.
-- 💡 Exploring the vast world of machine learning.
-- 💻 Keen interest in building scalable and user-friendly web applications.
+### 🛠️ Featured Projects
+- **RSS Reader (Scala):** A desktop app to manage and browse RSS feeds with persistent storage and a functional architecture.
+- **Chess Engine (Scala):** A complete chess game built with immutable data structures and rule-based move validation.
+- **Gym++ (Java):** A gym management system prototype with simulated hardware input and integrated payment features.
 
-🌐 **Web Development:**
-- Building dynamic and responsive web applications.
-- Passionate about creating seamless user experiences.
+### 🌱 Currently Learning
+- Web development with Scala/Java backends
+- Distributed systems concepts
+- More advanced testing practices
 
-🤖 **Machine Learning:**
-- Delving into the realms of AI and ML to solve real-world problems.
-- Working on projects ranging from predictive modeling to deep learning.
+Feel free to explore my projects, reach out, or connect!
 
-📫 **Connect with Me:**
-- Let's connect and learn together! Feel free to reach out on [www.linkedin.com/in/owen-neal1]
+📫 [www.linkedin.com/in/owen-neal1]
 
-🚧 **Future Goals:**
-- Contributing to open-source projects.
-- Pursuing advanced studies in Artificial Intelligence.
-
-
-🌟 Excited about the limitless possibilities at the intersection of machine learning and web development.
